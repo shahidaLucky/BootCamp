@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Camba/Camba.iml" filepath="$PROJECT_DIR$/Camba/Camba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cigna/Cigna.iml" filepath="$PROJECT_DIR$/Cigna/Cigna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Citibank/Citibank.iml" filepath="$PROJECT_DIR$/Citibank/Citibank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cnn/Cnn.iml" filepath="$PROJECT_DIR$/Cnn/Cnn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Automation.iml" filepath="$PROJECT_DIR$/Practice-Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomApp/RandomApp.iml" filepath="$PROJECT_DIR$/RandomApp/RandomApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Walmart/Walmart.iml" filepath="$PROJECT_DIR$/Walmart/Walmart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook/facebook.iml" filepath="$PROJECT_DIR$/facebook/facebook.iml" />
+    </modules>
+  </component>
+</project>
